@@ -10,4 +10,3 @@
 <!ELEMENT code (#PCDATA)>
 <!ELEMENT solde (#PCDATA)>
 <!ELEMENT dateCreation (#PCDATA)>
-
